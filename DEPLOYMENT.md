@@ -1,4 +1,4 @@
-# 🚀 Deployment Guide
+#  Deployment Guide
 
 ## Quick Start
 
@@ -102,14 +102,4 @@ Make sure to set these environment variables in your deployment platform:
 - [ ] Theme toggle works
 - [ ] Favorites persist correctly
 
-## Support
 
-If you encounter issues:
-1. Check the browser console for errors
-2. Verify your API key is correct
-3. Make sure all environment variables are set
-4. Check the network tab for failed API calls
-
----
-
-Happy deploying! 🎬
