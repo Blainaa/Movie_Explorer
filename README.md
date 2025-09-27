@@ -38,10 +38,11 @@ cd Movie_Explorer
 # Install dependencies
 npm install
 
-# Copy the example env file and add your API key
+# I Copy the example env file and i add your API key
 cp env.example .env
 # edit .env and add:
 # VITE_OMDB_API_KEY=your_key_here
 
 # Start development server
 npm run dev
+
